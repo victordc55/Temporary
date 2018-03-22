@@ -1,4 +1,5 @@
 
 function myFunct(){
 	alert("hello");
+	/* this do nothing */
 }
