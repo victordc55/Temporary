@@ -2,3 +2,6 @@
 const b = 25;
 
 alert(b);
+
+alert( b+ 555);
+
